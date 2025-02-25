@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Supplier Number found in Table::Supplier-00000000316      Supplier-00000000316]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Supplier-00000000317      Supplier-00000000317]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Supplier-00000000318      Supplier-00000000318]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Customer-00000000348      Customer-00000000348]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Customer-00000000349      Customer-00000000349]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Customer-00000000350      Customer-00000000350]]>
+    </line>
+    <line>
+      <![CDATA[Supplier Number found in Table::Customer-00000000351      Customer-00000000351]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-02-15T10:47:23Z" name="Default suite" finished-at="2025-02-15T10:50:17Z" duration-ms="174013">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-02-15T10:47:23Z" name="Default test" finished-at="2025-02-15T10:50:17Z" duration-ms="174013">
+      <class name="testRunner.AppTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:47:23Z" name="setUpClass" finished-at="2025-02-15T10:47:23Z" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:47:23Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:47:50Z" duration-ms="26156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Supplier-00000000316      Supplier-00000000316]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:47:50Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:48:14Z" duration-ms="24427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Supplier-00000000317      Supplier-00000000317]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:48:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:48:39Z" duration-ms="25000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Supplier-00000000318      Supplier-00000000318]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:48:39Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:49:04Z" duration-ms="25072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Customer-00000000348      Customer-00000000348]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:49:04Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:49:28Z" duration-ms="24350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Customer-00000000349      Customer-00000000349]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:49:28Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:49:52Z" duration-ms="24076" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Customer-00000000350      Customer-00000000350]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:49:52Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-15T10:50:17Z" duration-ms="24358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier Number found in Table::Customer-00000000351      Customer-00000000351]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.AppTest@4f0f2942]" started-at="2025-02-15T10:50:17Z" name="tearDownClass" finished-at="2025-02-15T10:50:17Z" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
